@@ -1,0 +1,104 @@
+{
+    "intents": [
+        {
+            "tag": "pick_bottle",
+            "patterns": ["pick bottle", "take bottle", "grab bottle", "pick the bottle", "take the bottle"],
+            "responses": ["bottle"]
+        },
+        {
+            "tag": "pick_cup",
+            "patterns": ["pick cup", "take cup", "grab cup", "pick the cup", "take the cup"],
+            "responses": ["cup"]
+        },
+        {
+            "tag": "pick_book",
+            "patterns": ["pick book", "take book", "grab book", "pick the book", "take the book"],
+            "responses": ["book"]
+        },
+        {
+            "tag": "pick_laptop",
+            "patterns": ["pick laptop", "take laptop", "grab laptop", "pick the laptop", "take the laptop"],
+            "responses": ["laptop"]
+        },
+        {
+            "tag": "pick_mouse",
+            "patterns": ["pick mouse", "take mouse", "grab mouse", "pick the mouse", "take the mouse"],
+            "responses": ["mouse"]
+        },
+        {
+            "tag": "pick_keyboard",
+            "patterns": ["pick keyboard", "take keyboard", "grab keyboard", "pick the keyboard", "take the keyboard"],
+            "responses": ["keyboard"]
+        },
+        {
+            "tag": "pick_phone",
+            "patterns": ["pick phone", "pick smartphone", "pick mobile", "pick cell phone", "take the phone", "grab the smartphone"],
+            "responses": ["smartphone"]
+        },
+        {
+            "tag": "pick_remote",
+            "patterns": ["pick remote", "take remote", "grab remote", "pick the remote"],
+            "responses": ["remote"]
+        },
+        {
+            "tag": "pick_scissors",
+            "patterns": ["pick scissors", "take scissors", "grab scissors", "pick the scissors"],
+            "responses": ["scissors"]
+        },
+        {
+            "tag": "pick_clock",
+            "patterns": ["pick clock", "take clock", "grab clock", "pick the clock"],
+            "responses": ["clock"]
+        },
+        {
+            "tag": "pick_vase",
+            "patterns": ["pick vase", "take vase", "grab vase", "pick the vase"],
+            "responses": ["vase"]
+        },
+        {
+            "tag": "pick_chair",
+            "patterns": ["pick chair", "take chair", "grab chair", "pick the chair"],
+            "responses": ["chair"]
+        },
+        {
+            "tag": "pick_tv",
+            "patterns": ["pick tv", "pick television", "take tv", "grab television"],
+            "responses": ["tv"]
+        },
+        {
+            "tag": "pick_banana",
+            "patterns": ["pick banana", "take banana", "grab banana", "pick the banana"],
+            "responses": ["banana"]
+        },
+        {
+            "tag": "pick_apple",
+            "patterns": ["pick apple", "take apple", "grab apple", "pick the apple"],
+            "responses": ["apple"]
+        },
+        {
+            "tag": "pick_orange",
+            "patterns": ["pick orange", "take orange", "grab orange", "pick the orange"],
+            "responses": ["orange"]
+        },
+        {
+            "tag": "pick_car",
+            "patterns": ["pick car", "take car", "grab car", "pick the car"],
+            "responses": ["car"]
+        },
+        {
+            "tag": "pick_person",
+            "patterns": ["pick person", "take person", "grab person"],
+            "responses": ["person"]
+        },
+        {
+            "tag": "pick_backpack",
+            "patterns": ["pick backpack", "take backpack", "grab backpack", "pick the backpack"],
+            "responses": ["backpack"]
+        },
+        {
+            "tag": "pick_teddy",
+            "patterns": ["pick teddy bear", "take teddy bear", "grab teddy bear"],
+            "responses": ["teddy bear"]
+        }
+    ]
+}
